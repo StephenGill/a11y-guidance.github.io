@@ -88,7 +88,22 @@ This means you need to do things like:
 - use valid HTML so user agents, including assistive technologies, can accurately interpret and parse content
 - make sure your code lets assistive technologies know what every feature is for and what state it’s currently in
 
-### More about WCAG 2.0
+## Testing your service or website for accessibility
+
+There are a number of ways to check that you service or website is accessible.
+
+To meet the digital service standard for UK central government services, you’ll need to:
+
+[include people who have disabilities or use assistive technologies for your user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants)
+[test your technology for accessibility](https://www.gov.uk/service-manual/technology/testing-for-accessibility)
+
+### Getting an accessibility audit
+
+You can get experts to review your website or service against accessibility standards by [commissioning an accessibility audit](https://stephengill.github.io/a11y-guidance.github.io/audit.html).
+
+To meet the digital service standard for UK central government services, you’ll need to carry out an audit during the beta phase.
+
+## More about WCAG 2.0
 
 Read the following resources for more information about meeting the WCAG guidelines:
 
@@ -96,7 +111,3 @@ Read the following resources for more information about meeting the WCAG guideli
 - [University of Washington’s IT accessibility checklist](http://www.washington.edu/accessibility/checklist/)
 - [WCAG is not scary anymore - a progressive approach to website accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry/) - you’ll need a LinkedIn account to view this article
 - [bitsofcode’s accessibility cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
-
-## Testing for accessibility
-
-[link](link)
