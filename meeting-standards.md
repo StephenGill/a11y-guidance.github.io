@@ -97,7 +97,7 @@ To meet the digital service standard for UK central government services, your te
 - [recruiting people who have disabilities or use assistive technologies to participate in your user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants)
 - [testing your technology](https://www.gov.uk/service-manual/technology/testing-for-accessibility)
 
-<p style="color:red;"><strong>Do we want to advocate expert review without providing advice on how to find someone with the right expertise?</strong></p>
+<p style="color:red;"><strong>QUESTION: do we want to advocate expert review without providing advice on how to find someone with the right expertise?</strong></p>
 
 ### Getting an accessibility audit
 
