@@ -44,3 +44,11 @@ Accessibility problems can be caused by:
 - the documents you publish
 
 So it’s important to [check that your service or website meets accessibility standards](https://stephengill.github.io/a11y-guidance.github.io/meeting-standards.html).
+
+## Procuring an accessilble website or service
+
+Fixing an inaccessible serivce, website or mobile app after it's been built can be costly and difficult, if not impossible.
+
+If you're carrying out a procurement related to a digital service, website or app address accessibility from the start.
+
+The European Commission has publised guidance in its [Accessible ICT Procurement Toolkit](http://mandate376.standards.eu/).
