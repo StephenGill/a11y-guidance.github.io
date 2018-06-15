@@ -43,4 +43,4 @@ Accessibility problems can be caused by:
 - how any forms and transactions work
 - the documents you publish
 
-So it’s important to [check your service against accessibility standards](link).
+So it’s important to [check that your service or website meets accessibility standards](https://stephengill.github.io/a11y-guidance.github.io/meeting-standards.html).
