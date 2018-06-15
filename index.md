@@ -5,3 +5,5 @@
 [Meeting accessibility standards](https://stephengill.github.io/a11y-guidance.github.io/meeting-standards.html)
 
 [Getting an accessibility audit](https://stephengill.github.io/a11y-guidance.github.io/audit.html)
+
+[Publishing accessible documents](https://stephengill.github.io/a11y-guidance.github.io/documents.html)
