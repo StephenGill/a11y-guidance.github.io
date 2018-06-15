@@ -90,12 +90,14 @@ This means you need to do things like:
 
 ## Testing your service or website for accessibility
 
-There are a number of ways to check that you service or website is accessible.
+Create a test plan to check that your service or website is accessible.
 
-To meet the digital service standard for UK central government services, you’ll need to:
+To meet the digital service standard for UK central government services, your test plan must include:
 
-[include people who have disabilities or use assistive technologies for your user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants)
-[test your technology for accessibility](https://www.gov.uk/service-manual/technology/testing-for-accessibility)
+- [recruiting people who have disabilities or use assistive technologies to participate in your user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants)
+- [testing your technology](https://www.gov.uk/service-manual/technology/testing-for-accessibility)
+
+<p color=red>Do we want to advocate expert review without providing advice on how to find someone with the right expertise?</p>
 
 ### Getting an accessibility audit
 
