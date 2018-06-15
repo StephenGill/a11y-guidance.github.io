@@ -33,7 +33,15 @@ Avoid footnotes where possible. Provide explanations inline instead.
 
 ### 3. Give the document a structure
 
-Break up your document to make it more readable. Use bullet points, numbered steps and subheadings.
+Use a sans serif font like Arial or Helvetica. Minimum size of 12 points.
+
+Make sure the text is left aligned, not justified.
+
+Use sentence case. Avoid all caps text and minimise use of italics.
+
+Avoid underlining, except for links. 
+
+Use plenty of white space. Break up your document to make it more readable. Use bullet points, numbered steps and subheadings.
 
 Don’t use bold to mark up subheadings. Use styles to create a hierarchy of headings: ‘heading 1’, ‘heading 2’ and so on.
 
