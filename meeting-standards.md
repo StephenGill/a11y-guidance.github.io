@@ -4,8 +4,8 @@ Your service or website must meet level AA of the Web Content Accessibility Guid
 
 Check if your organisation has other requirements you need to meet. If you’re creating a service or website for central government in the UK, you’ll also need to:
 
-test your service or website on the most commonly used [assistive technologies](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#testing-with-assistive-technologies) - including screen magnifiers, screen readers and speech recognition tools
-include people with disabilities in [user research](https://www.gov.uk/service-manual/user-research)
+* test your service or website on the most commonly used [assistive technologies](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#testing-with-assistive-technologies) - including screen magnifiers, screen readers and speech recognition tools
+* include people with disabilities in [user research](https://www.gov.uk/service-manual/user-research)
 
 If you think that your service (or any part of it) can’t be made accessible, contact the Government Digital Service (GDS) accessibility team for advice at accessibility@digital.cabinet-office.gov.uk.
 
