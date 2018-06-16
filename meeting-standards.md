@@ -97,13 +97,25 @@ To meet the digital service standard for UK central government services, your te
 - [recruiting people who have disabilities or use assistive technologies to participate in your user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants)
 - [testing your technology](https://www.gov.uk/service-manual/technology/testing-for-accessibility)
 
-<p style="color:red;"><strong>[QUESTION: do we want to advocate expert review without providing advice on how to find someone with the right expertise?]</strong></p>
+<p style="color:red;">[QUESTION: do we want to advocate expert review without providing advice on how to find someone with the right expertise?]</p>
 
 ### Getting an accessibility audit
 
 You can get experts to review your website or service against accessibility standards by [commissioning an accessibility audit](https://stephengill.github.io/a11y-guidance.github.io/audit.html).
 
 To meet the digital service standard for UK central government services, you’ll need to carry out an audit during the beta phase.
+
+##
+
+From <p style="color:red;">[DATE]</p> you must publish an accessibility statement at a prominent place in your service, website or app. For example, digital services on GOV.UK should add a link to the footer of each page.
+
+The accessibility statement must say:
+
+- which parts of your service meets accessibility standards and which parts don't
+- if parts of the service don't meet accessiblity standards, why that's the case
+- what disbled users should do if they can't access the online version of the service 
+
+<p style="color:red;">[QUESTION: do we have a good example of an accessibility statement to link to ?]</p>
 
 ## More about WCAG 2.0
 
