@@ -33,7 +33,13 @@ And services that meet accessibility standards tend to use less bandwidth - so t
 
 ## Meeting accessibility standards
 
-If you’re service isn’t accessible, you could be breaking the law.
+Accessibility standards apply to:
+
+- digital services
+- websites
+- [mobile apps](https://www.gov.uk/service-manual/technology/working-with-mobile-technology)
+
+If your service isn’t accessible, you could be breaking the law.
 
 Accessibility problems can be caused by:
 
