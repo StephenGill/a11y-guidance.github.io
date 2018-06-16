@@ -7,8 +7,6 @@ Check if your organisation has other requirements you need to meet. If you’re 
 * test your service or website on the most commonly used [assistive technologies](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#testing-with-assistive-technologies) - including screen magnifiers, screen readers and speech recognition tools
 * include people with disabilities in [user research](https://www.gov.uk/service-manual/user-research)
 
-If you think that your service (or any part of it) can’t be made accessible, contact the Government Digital Service (GDS) accessibility team for advice at accessibility@digital.cabinet-office.gov.uk.
-
 ## Understanding WCAG 2.0
 
 WCAG 2.0 is based on 4 design principles:
@@ -87,6 +85,19 @@ This means you need to do things like:
 
 - use valid HTML so user agents, including assistive technologies, can accurately interpret and parse content
 - make sure your code lets assistive technologies know what every feature is for and what state it’s currently in
+
+## What types of content the accessibility standards apply to
+
+There's no legal requirement to make content accessible if it's:
+
+- live video
+- third party content that’s under someone else’s control
+- part of a heritage collection - for example, scanned manuscripts
+- <span style="color:red">[content published on mobile closed systems - need to clarify what this means]</span>
+
+But you may still need to make it accessible if you're aiming to meet the digital service standard for central government services.
+
+If you think that your service (or any part of it) can’t be made accessible, contact the Government Digital Service (GDS) accessibility team for advice at <accessibility@digital.cabinet-office.gov.uk>.
 
 ## Testing your service or website for accessibility
 
