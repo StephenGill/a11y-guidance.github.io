@@ -86,19 +86,6 @@ This means you need to do things like:
 - use valid HTML so user agents, including assistive technologies, can accurately interpret and parse content
 - make sure your code lets assistive technologies know what every feature is for and what state it’s currently in
 
-## Types of content the accessibility standards apply to
-
-There's no legal requirement to make content accessible if it's:
-
-- live video
-- third party content that’s under someone else’s control
-- part of a heritage collection - for example, scanned manuscripts
-- <span style="color:red">[content published on mobile closed systems - need to clarify what this means]</span>
-
-But you may still need to make it accessible if you're aiming to meet the digital service standard for central government services.
-
-If you think that your service (or any part of it) can’t be made accessible, contact the Government Digital Service (GDS) accessibility team for advice at <accessibility@digital.cabinet-office.gov.uk>.
-
 ## Testing your service or website for accessibility
 
 Create a test plan to check that your service or website is accessible.
@@ -134,6 +121,21 @@ There's a legal requirement to publish your accessibility statement by:
 - September 2019 for new services and websites
 - September 2020 for services and websites created before 23 September 2018
 - June 2021 for mobile apps
+
+## Services and content that don't have to meet accessibility standards
+
+There’s no legal requirement to meet the accessibility standards if you’re creating a service for a school, nursery or kindergarten.
+
+And there's no general legal requirement to make content accessible if it's:
+
+- live video
+- third party content that’s under someone else’s control
+- part of a heritage collection - for example, scanned manuscripts
+- <span style="color:red">[content published on mobile closed systems - need to clarify what this means]</span>
+
+But you may still need to make it accessible if you're aiming to meet the digital service standard for central government services.
+
+If you think that your service (or any part of it) can’t be made accessible, contact the Government Digital Service (GDS) accessibility team for advice at <accessibility@digital.cabinet-office.gov.uk>.
 
 ## More about WCAG 2.0
 
