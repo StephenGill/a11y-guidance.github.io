@@ -105,17 +105,24 @@ You can get experts to review your website or service against accessibility stan
 
 To meet the digital service standard for UK central government services, you’ll need to carry out an audit during the beta phase.
 
-## Publishing an accessibility statement
+## Accessibility statements
 
-From <span style="color:red;">[DATE]</span> you must publish an accessibility statement at a prominent place in your service, website or app. For example, digital services on GOV.UK should add a link to the footer of each page.
+You will need to publish an accessibility statement at a prominent place in your service, website or mobile app. For example, digital services on GOV.UK should add a link to the footer of each page. The accessibility statement should be published as an HTML page. 
 
 The accessibility statement must say:
 
 - which parts of your service meets accessibility standards and which parts don't
 - if parts of the service don't meet accessiblity standards, why that's the case
-- what disbled users should do if they can't access the online version of the service 
+- how people with access needs can use parts of the service that don't meet accessibility standards
+- how to report accessibility problems with the service
 
-<p style="color:red;">[QUESTION: do we have a good example of an accessibility statement to link to ?]</p>
+The EU will publish a model accessibility statement by December 2018.
+
+There's a legal requirement to publish your accessibility statement by:
+
+- September 2019 for new services and websites
+- September 2020 for services and websites created before 23 September 2018
+- June 2021 for mobile apps
 
 ## More about WCAG 2.0
 
