@@ -105,9 +105,9 @@ You can get experts to review your website or service against accessibility stan
 
 To meet the digital service standard for UK central government services, you’ll need to carry out an audit during the beta phase.
 
-##
+## Publishing an accessibility statement
 
-From <p style="color:red;">[DATE]</p> you must publish an accessibility statement at a prominent place in your service, website or app. For example, digital services on GOV.UK should add a link to the footer of each page.
+From <span style="color:red;">[DATE]</span> you must publish an accessibility statement at a prominent place in your service, website or app. For example, digital services on GOV.UK should add a link to the footer of each page.
 
 The accessibility statement must say:
 
