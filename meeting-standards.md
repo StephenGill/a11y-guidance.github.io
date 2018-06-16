@@ -86,7 +86,7 @@ This means you need to do things like:
 - use valid HTML so user agents, including assistive technologies, can accurately interpret and parse content
 - make sure your code lets assistive technologies know what every feature is for and what state it’s currently in
 
-## What types of content the accessibility standards apply to
+## Types of content the accessibility standards apply to
 
 There's no legal requirement to make content accessible if it's:
 
