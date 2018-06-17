@@ -16,6 +16,12 @@ And research shows that everyone prefers simple language, including specialist a
 
 ### 2. Keep the document simple
 
+Use a sans serif font like Arial or Helvetica. Minimum size of 12 points.
+
+Use sentence case. Avoid all caps text and minimise use of italics.
+
+Avoid underlining, except for links. 
+
 Documents with single, continuous columns of text are easier to make accessible than documents with a more compex layout.
 
 Only use tables for data. Keep tables simple: avoid splitting or merging cells.
@@ -31,13 +37,7 @@ Avoid footnotes where possible. Provide explanations inline instead.
 
 ### 3. Give the document a structure
 
-Use a sans serif font like Arial or Helvetica. Minimum size of 12 points.
-
 Make sure the text is left aligned, not justified.
-
-Use sentence case. Avoid all caps text and minimise use of italics.
-
-Avoid underlining, except for links. 
 
 Use plenty of white space. Break up your document to make it more readable. Use bullet points, numbered steps and subheadings.
 
@@ -51,6 +51,10 @@ If you do need to upload a non-HTML document, follow this guidance:
 
 - [how to convert a Word document to accessible PDF format](https://webaim.org/techniques/acrobat/converting)
 - [how to format a Word document so it’s accessible](https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d)
+
+## Creating a PDF from a scanned document
+
+If you're creating a PDF by scanning a paper document, use [Optical Character Recognition (OCR)](https://acrobat.adobe.com/uk/en/acrobat/how-to/ocr-software-convert-pdf-to-text.html) to make the PDF accessible to screen reader users.
 
 ## Check your document before uploading
 
