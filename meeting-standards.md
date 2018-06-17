@@ -9,7 +9,7 @@ Check if your organisation has other requirements you need to meet. If you’re 
 
 ## Understanding WCAG 2.0
 
-WCAG 2.0 is based on 4 design principles:
+WCAG 2.0 is based on 4 principles:
 
 - perceivable
 - operable
