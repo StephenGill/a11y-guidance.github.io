@@ -7,6 +7,8 @@ Check if your organisation has other requirements you need to meet. If you’re 
 * test your service or website on the most commonly used [assistive technologies](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#testing-with-assistive-technologies) - including screen magnifiers, screen readers and speech recognition tools
 * include people with disabilities in [user research](https://www.gov.uk/service-manual/user-research)
 
+One way to maximise your chances of meeting accessibility standards is to use [GOV.UK elements](https://govuk-elements.herokuapp.com/): styles, patterns and components that have  been tested for accessibility.
+
 ## Understanding WCAG 2.0
 
 WCAG 2.0 is based on 4 principles:
@@ -43,6 +45,7 @@ This means you need to do things like:
 - use the proper markup for every feature
 - not use colour as the only way to explain or distinguish something
 - use text colours that show up clearly against the background colour
+- allow users to change colours (for example, some dyslexic users find text easier to read on a beige background)
 - make sure every feature can be used when text size is increased by 200%
 - not use images of text
 
@@ -57,10 +60,13 @@ This means you need to do things like:
 - not use blinking or flashing content
 - provide a ‘skip to content’ link
 - use descriptive titles for pages and frames
+- use descriptive labels for form elements
+- make clickable areas big (so that people with poor motor control can use them)
 - make sure keyboard users can move through content in a way that makes sense
 - use descriptive links so users know where a link will take them
 - use meaningful headings and labels
 - make it easy for keyboard users to see where they are on a page
+- limit use of [CAPTCHAs](https://www.gov.uk/service-manual/technology/using-captchas)
 
 ### Principle 3: Understandable
 
@@ -69,10 +75,11 @@ To meet [WCAG 2.0 Principle 3: Understandable](https://www.w3.org/TR/WCAG20/#und
 This means you need to do things like:
 
 - use [simple language](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
-- keep sentences short
+- keep sentences short and break up text into sections to make it more readable
 - not use words and phrases that people won’t recognise - or provide an explanation if you can’t avoid it
 - explain all abbreviations and acronyms, unless they are well known and in common use - for example UK, EU, VAT
 - make it clear what language the content is written in, and indicate if this changes
+- use plenty of white space
 - make sure features look consistent and behave in predictable ways
 - make sure all form fields have visible and meaningful labels
 - [make it easy to identify and correct errors in forms](https://govuk-elements.herokuapp.com/errors/)
@@ -99,7 +106,7 @@ The accessibility statement must say:
 
 The EU will publish a model accessibility statement by December 2018.
 
-There's a legal requirement to publish your accessibility statement by:
+The law says you have to publish your accessibility statement by:
 
 - September 2019 for new services and websites
 - September 2020 for services and websites created before 23 September 2018
