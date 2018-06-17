@@ -62,4 +62,4 @@ If you're carrying out a procurement related to a digital service, website or ap
 
 The European Commission has publised guidance in its [Accessible ICT Procurement Toolkit](http://mandate376.standards.eu/).
 
-<p style="color:read;">[QUESTION: do we want to point people looking to procure technology towards the toolkit, or towards the guidance on meeting WCAG 2.0? Shouldn't the same standards apply whether you're building, buying or doing a mixture of the two?]</p>
+<p style="color:red;">[QUESTION: do we want to point people looking to procure technology towards the toolkit, or towards the guidance on meeting WCAG 2.0? Shouldn't the same standards apply whether you're building, buying or doing a mixture of the two?]</p>
