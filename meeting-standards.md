@@ -122,9 +122,9 @@ You can get experts to review your website or service against accessibility stan
 
 To meet the digital service standard for UK central government services, you’ll need to carry out an audit during the beta phase.
 
-## Services and content that don't have to meet accessibility standards
+## When you don't have to meet accessibility standards
 
-There’s no legal requirement to meet the accessibility standards if you’re creating a service for a school, nursery or kindergarten.
+There’s no legal requirement to meet the accessibility standards for non-essential content on a school, nursery or kindergarten service.
 
 And there's no general legal requirement to make content accessible if it's:
 
@@ -133,9 +133,19 @@ And there's no general legal requirement to make content accessible if it's:
 - part of a heritage collection - for example, scanned manuscripts
 - <span style="color:red">[content published on mobile closed systems - need to clarify what this means]</span>
 
-But you may still need to make it accessible if you're aiming to meet the digital service standard for central government services.
+But you'll still need to make it accessible if you're aiming to meet the digital service standard for central government services.
 
 If you think that your service (or any part of it) can’t be made accessible, contact the Government Digital Service (GDS) accessibility team for advice at <accessibility@digital.cabinet-office.gov.uk>.
+
+### Existing services
+
+The law says you have to make 'reasonable adjustments' so that disabled people can use your service. If you're buidling a new service or adding new content to an existing service, meeting the WCAG 2.0 AA standard is likely to be evidence that you've made reasonable adjustments.
+
+If you have an existing service that doesn't fully meet the WCAG 2.0 AA standard, you'll need to need to decide what's reasonable in your circumstances. For example, it's probably reasonable to deploy a global code change that means all the pags on a website will have a meaningful title (meaningful page titles are very helpful to screen reader users). 
+
+But It's probably not reasonable to spend time updating old PDFs, other documents or PDFs. As long as you're able to provide the information in another format if someone asks for it.
+
+Talk to your legal adviser if you're not sure what to do.
 
 ## More about WCAG 2.0
 
