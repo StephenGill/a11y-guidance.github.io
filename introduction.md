@@ -1,10 +1,12 @@
-## Making your service or website accessible: an introduction
+# Making your service or website accessible: an introduction
 
 [One in 5 people in the UK have a disability](https://www.gov.uk/government/statistics/disability-facts-and-figures).
 
 It’s important that those people can access public services. The public sector has a duty to serve the population as a whole. And when someone can access public services on their own terms, that’s empowering.
 
-Done right, accessible public services can be more cost effective. If more people can access services and information online, there’s potential to save money on answering unnecessary phone calls. And services that meet accessibility standards adapt better to new technologies.
+And meeting accessibility standards can make the public sector more cost effective. If more people can access services and information online, there’s potential to save money on answering unnecessary phone calls.
+
+This guidance applies to public sector digital services, websites and [mobile apps](https://www.gov.uk/service-manual/technology/working-with-mobile-technology).
 
 ## Understanding accessibility
 
