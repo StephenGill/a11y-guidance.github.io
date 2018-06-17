@@ -26,7 +26,7 @@ By focusing on principles, not technology, they emphasise the need to think abou
 
 The principles apply to all aspects of your service including code, html content, [PDFs and other documents](https://stephengill.github.io/a11y-guidance.github.io/documents.html) and interactions. So make sure all members of your team understand them.
 
-## Applying WCAG 2.0 guidelines
+## Applying WCAG 2.0
 
 The WCAG 2.0 design principles are supported by 12 guidelines. Each of these is broken down into specific requirements (or ‘success criteria’).
 
