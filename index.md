@@ -1,4 +1,4 @@
-# Accesibility and assisted digital
+# Accesibility
 
 [Making your service or website accessible: an introduction](https://stephengill.github.io/a11y-guidance.github.io/introduction.html)
 
