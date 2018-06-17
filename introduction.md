@@ -19,7 +19,7 @@ Some disabled people use assistive technology to access online services. For exa
 
 Meeting accessibility standards means that people can use your service with assistive technology.
 
-You can find out more about types of impairment and assistive technology from:
+Find out more about types of impairment and assistive technology from:
 
 - [accessibility and me](https://accessibility.blog.gov.uk/category/accessibility-and-me/) - interviews with disabled people about the assistive technology they use
 - [user profiles](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles) highlighting the common barriers users face when accessing digital service
