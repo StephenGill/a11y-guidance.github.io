@@ -43,7 +43,7 @@ Use plenty of white space. Break up your document to make it more readable. Use 
 
 Don’t use bold to mark up subheadings. Use styles to create a hierarchy of headings: ‘heading 1’, ‘heading 2’ and so on.
 
-## What to do if you’re converting or uploading a document
+## Converting or uploading a document
 
 Wherever possible, create content in HTML formats. If you need to publish a document in another format, it should be in addition to an HTML version.
 
