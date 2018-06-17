@@ -33,23 +33,24 @@ And services that meet accessibility standards tend to use less bandwidth - so t
 
 ## Meeting accessibility standards
 
-Accessibility standards apply to:
+If your service isn’t accessible, you may be breaking the law.
 
-- digital services
-- websites
-- [mobile apps](https://www.gov.uk/service-manual/technology/working-with-mobile-technology)
+The best way to meet accessibility standards is to build them into your processes. It’s much harder to go back and fix accessibility problems after the fact.
 
-If your service isn’t accessible, you could be breaking the law.
+For example, make sure that anyone creating content knows that they have a responsibility to make the content accessible. And that this includes:
 
-Accessibility problems can be caused by:
+- using simple language
+- making sure PDFs and other documents are accessible
+- making sure any images, video or audio content is accessible 
+- following conventions for creating accessible content (for example, write descriptive links rather than using ‘click here’ 
 
-- the language you use
+You’ll also need to consider:
+
 - page design and layout
-- code
+- how your HTML is structured
 - how any forms and transactions work
-- the documents you publish
 
-So it’s important to [check that your service or website meets accessibility standards](https://stephengill.github.io/a11y-guidance.github.io/meeting-standards.html).
+Read [detailed guidance on meeting accessibility standards](https://stephengill.github.io/a11y-guidance.github.io/meeting-standards.html).
 
 ## Procuring an accessilble website or service
 
