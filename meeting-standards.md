@@ -86,23 +86,6 @@ This means you need to do things like:
 - use valid HTML so user agents, including assistive technologies, can accurately interpret and parse content
 - make sure your code lets assistive technologies know what every feature is for and what state it’s currently in
 
-## Testing your service or website for accessibility
-
-Create a test plan to check that your service or website is accessible.
-
-To meet the digital service standard for UK central government services, your test plan must include:
-
-- [recruiting people who have disabilities or use assistive technologies to participate in your user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants)
-- [testing your technology](https://www.gov.uk/service-manual/technology/testing-for-accessibility)
-
-<p style="color:red;">[QUESTION: do we want to advocate expert review without providing advice on how to find someone with the right expertise?]</p>
-
-### Getting an accessibility audit
-
-You can get experts to review your website or service against accessibility standards by [commissioning an accessibility audit](https://stephengill.github.io/a11y-guidance.github.io/audit.html).
-
-To meet the digital service standard for UK central government services, you’ll need to carry out an audit during the beta phase.
-
 ## Accessibility statements
 
 You will need to publish an accessibility statement at a prominent place in your service, website or mobile app. For example, digital services on GOV.UK should add a link to the footer of each page. The accessibility statement should be published as an HTML page. 
@@ -121,6 +104,23 @@ There's a legal requirement to publish your accessibility statement by:
 - September 2019 for new services and websites
 - September 2020 for services and websites created before 23 September 2018
 - June 2021 for mobile apps
+
+## Testing your service or website for accessibility
+
+Create a test plan to check that your service or website is accessible.
+
+To meet the digital service standard for UK central government services, your test plan must include:
+
+- [recruiting people who have disabilities or use assistive technologies to participate in your user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants)
+- [testing your technology](https://www.gov.uk/service-manual/technology/testing-for-accessibility)
+
+<p style="color:red;">[QUESTION: do we want to advocate expert review without providing advice on how to find someone with the right expertise?]</p>
+
+### Getting an accessibility audit
+
+You can get experts to review your website or service against accessibility standards by [commissioning an accessibility audit](https://stephengill.github.io/a11y-guidance.github.io/audit.html).
+
+To meet the digital service standard for UK central government services, you’ll need to carry out an audit during the beta phase.
 
 ## Services and content that don't have to meet accessibility standards
 
