@@ -24,7 +24,7 @@ By focusing on principles, not technology, they emphasise the need to think abou
 * use a screen magnifier to enlarge part or all of a screen
 * use voice commands to navigate a website
 
-The principles apply to all aspects of your service (including code, content and interactions), which means all members of your team need to understand and consider them.
+The principles apply to all aspects of your service including code, html content, [PDFs and other documents](https://stephengill.github.io/a11y-guidance.github.io/documents.html) and interactions. So make sure all members of your team understand them.
 
 ## Applying WCAG 2.0 guidelines
 
