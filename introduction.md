@@ -8,6 +8,12 @@ And meeting accessibility standards can make the public sector more cost effecti
 
 This guidance applies to public sector digital services, websites and [mobile apps](https://www.gov.uk/service-manual/technology/working-with-mobile-technology).
 
+## Accessible services are better for everyone
+
+Making services accessible makes them better for everyone. For example, video subtitles can help people with a hearing impairment. But they’re also useful to someone watching a video in a noisy office.
+
+And services that meet accessibility standards tend to use less bandwidth - so they’re better for people with low wifi or a limited mobile data plan.
+
 ## Understanding accessibility
 
 Making a service accessible means making sure it can be used by people with:
@@ -26,12 +32,6 @@ Find out more about types of impairment and assistive technology from:
 - [accessibility and me](https://accessibility.blog.gov.uk/category/accessibility-and-me/) - interviews with disabled people about the assistive technology they use
 - [user profiles](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles) highlighting the common barriers users face when accessing digital service
 - [web accessibility perspectives](https://www.w3.org/WAI/perspective-videos/) - videos showing the benefits of making services accessible
-
-## Accessible services are better for everyone
-
-Making services accessible makes them better for everyone. For example, video subtitles can help people with a hearing impairment. But they’re also useful to someone watching a video in a noisy office.
-
-And services that meet accessibility standards tend to use less bandwidth - so they’re better for people with low wifi or a limited mobile data plan.
 
 ## Meeting accessibility standards
 
@@ -61,3 +61,5 @@ Fixing an inaccessible serivce, website or mobile app after it's been built can 
 If you're carrying out a procurement related to a digital service, website or app address accessibility from the start.
 
 The European Commission has publised guidance in its [Accessible ICT Procurement Toolkit](http://mandate376.standards.eu/).
+
+<p style="color:read;">[QUESTION: do we want to point people looking to procure technology towards the toolkit, or towards the guidance on meeting WCAG 2.0? Shouldn't the same standards apply whether you're building, buying or doing a mixture of the two?]</p>
