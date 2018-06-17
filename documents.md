@@ -16,15 +16,13 @@ And research shows that everyone prefers simple language, including specialist a
 
 ### 2. Keep the document simple
 
-Complex documents are harder to make accessible. Where possible, create simple documents using a word processing application. Rather than complex documents using graphic design software.
-
-Set the content out in a single column.
+Documents with single, continuous columns of text are easier to make accessible than documents with a more compex layout.
 
 Only use tables for data. Keep tables simple: avoid splitting or merging cells.
 
 Don’t use colour alone to get across meaning.
 
-If you’re using images, think about how you’ll make the content accessible to people with a visual impairment. Two ways to do that are:
+If you’re using images, think about how you’ll make the content accessible to people with a visual impairment. Two options  are:
 
 - make the same point in the text of the document (so people with visual impairments get the information they need - the image is there as an extra for people who are able to see it)
 - give the person converting or uploading the document for you [alt text (‘alternative text’)](https://webaim.org/techniques/alttext/) for the image
