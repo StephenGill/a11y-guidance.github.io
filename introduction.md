@@ -54,7 +54,7 @@ You’ll also need to consider:
 
 Read [detailed guidance on meeting accessibility standards](https://stephengill.github.io/a11y-guidance.github.io/meeting-standards.html).
 
-## Procuring an accessilble website or service
+## Procuring an accessible website or service
 
 Fixing an inaccessible serivce, website or mobile app after it's been built can be costly and difficult, if not impossible.
 
