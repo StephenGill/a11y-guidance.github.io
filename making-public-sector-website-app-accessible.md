@@ -17,7 +17,7 @@ Some disabled people use assistive technology to access online services. For exa
 
 In the UK, 1 in 5 people have a disability.
 
-###Why it’s important
+### Why it’s important
 
 Accessible websites are better for everyone. For example, they are faster and easier to use, and appear higher in search engines.
 
@@ -27,7 +27,7 @@ Most public sector websites do not currently meet accessibility standards. For e
 
 Common accessibility problems include websites that can’t be navigated using a keyboard, inaccessible PDF forms that can’t be read out on screen readers, and poor colour contrast that makes text difficult to read, especially for partially sighted people.
 
-##What you need to do
+## What you need to do
 
 Public sector websites and apps are required by law to:
 
@@ -38,7 +38,7 @@ Public sector websites and apps are required by law to:
 ^ Public sector includes central government, local government, and organisations who get significant income from public funds. There are special rules for [nurseries, schools and 
 charities].
 
-##Accessibility standards
+## Accessibility standards
 
 The law says you have to make your website or mobile app more accessible for disabled people by making it ‘perceivable, operable, understandable and robust’.
 
@@ -54,7 +54,7 @@ The date that these checks start and the steps you need to take depend on whethe
 + an existing website
 + an app
 
-###What counts as disproportionate burden
+### What counts as disproportionate burden
 
 To work out if something is disproportionate, consider things like:
 
@@ -65,7 +65,7 @@ To work out if something is disproportionate, consider things like:
 
 You can’t make a valid argument that something is a disproportionate burden because of a lack of time or knowledge, or because you haven’t given it priority.
 
-###New websites 
+### New websites 
 
 New websites must usually be fully accessible and meet the WCAG 2.1 AA standard.
 
@@ -80,7 +80,7 @@ We recommend that you make sure your website or app meets the standards by:
 + making sure the team or agency responsible for your website or app [understands WCAG 2.1](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20)
 + doing some [basic accessibility tests](https://www.w3.org/WAI/test-evaluate/preliminary/) before you sign off your new website or app
 
-###Existing websites
+### Existing websites
 
 The government will start checking that existing websites meets the accessibility standards from 23 September 2020. 
 
@@ -95,11 +95,11 @@ If you’re not sure what would be disproportionate in your situation, talk to y
 
 %You’re legally responsible for your website meeting accessibility standards, even if you’ve [outsourced your website to a supplier] (link to section below).
 
-##Making a plan to meet accessibility standards
+## Making a plan to meet accessibility standards
 
 You‘ll need to identify which parts of your website need fixing before you can work out what to prioritise.
 
-###Identify what you need to fix
+### Identify what you need to fix
 
 Start by finding out which parts of your website meet accessibility standards and which parts don't. 
 
@@ -119,7 +119,7 @@ Think about the criteria for ‘disproportionate burden’ when working out whic
 
 ^The GOV.UK Service Manual has sections on automated and manual testing and getting an accessibility audit.
 
-###Work out what to prioritise
+### Work out what to prioritise
 
 Once you’ve identified your website’s accessibility problems, you’ll need to work out what to prioritise.
 
@@ -131,13 +131,13 @@ Remember that if something is a disproportionate burden, you’ll still need to 
 
 Talk to your legal adviser if you're not sure what to do.
 
-###Make a roadmap
+### Make a roadmap
 
 Once you’ve worked out your priorities, you can make a high level plan or roadmap to show how you’ll meet accessibility standards.
 
 Aim to fix the highest priority things first, and think about how you’ll know when each problem has been fixed. 
 
-##Making content accessible
+## Making content accessible
 
 Make sure new content published from 23 September 2018 meets accessibility standards. If it doesn’t, you’ll have to go back and fix it (by September 2020 for existing websites). 
 
@@ -151,13 +151,13 @@ This includes:
 
 It’s very unlikely that making new content accessible would be considered a valid disproportionate burden.
 
-###Making old content accessible 
+### Making old content accessible 
 
 Content published on existing websites before 23 September 2018 must meet accessibility standards, unless it’s a disproportionate burden.
 
 Work out which content you need to prioritise and fix as part of your [accessibility plan].
 
-###Exempt types of content
+### Exempt types of content
 {#exempt-content}
 
 You usually need to make documents like PDFs and Microsoft Office files accessible if they’re primarily intended for use on the web.
@@ -180,7 +180,7 @@ There’s no legal requirement to make some types of website accessible. This ap
 - an intranet or extranet published before 23 September 2019 (until you do a major update of it)
 - archived and is not needed for services your organisation provides
 
-##Procuring an accessible website or app
+## Procuring an accessible website or app
 
 Some public sector organisations have outsourced some or all of their websites to suppliers that make it very expensive to make even simple changes. If this is the case, it may be a disproportionate burden to make part of your website fully accessible. 
 
@@ -194,7 +194,7 @@ Where possible, we recommend that you should renegotiate your contract or change
 
 The European Commission has published guidance in its [Accessible ICT Procurement Toolkit](http://mandate376.standards.eu/).
 
-##Accessibility statements
+## Accessibility statements
 
 You will need to publish an accessibility statement from:
 
@@ -220,7 +220,7 @@ There’s no legal requirement to meet the accessibility standards for content t
 
 You still need to provide alternative formats on request even if you don’t need to meet accessibility standards.
 
-##Get support, training or advice
+## Get support, training or advice
 
 Depending on where you work, you may be able to get support from:
 + the [local government digital] network - you can ask questions on their accessibility Slack channel
@@ -228,7 +228,7 @@ Depending on where you work, you may be able to get support from:
 
 ^The Government Digital Service is researching what guidance and support that public sector organisations need to meet accessibility standards. If you’re interested in taking part in this research, contact <accessibility-research@digital.cabinet-office.gov.uk>.
 
-###If you’re not sure the rules apply to you
+### If you’re not sure the rules apply to you
 
 Check with your legal adviser if you’re not sure whether the accessibility rules for public sector body websites and apps apply to you. For example, if you don’t know whether your organisation is a public sector body, or whether some of your content is exempt.
 
